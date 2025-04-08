@@ -1,7 +1,3 @@
-Sure Shubham! Here’s a detailed and well-structured `README.md` file for your GitHub repo that showcases **5 different Exploratory Data Analyses (EDA)** projects, explains **EDA in detail**, and includes all steps and substeps. You can customize the dataset names and tools as needed.
-
----
-
 ```markdown
 # 🧠 Exploratory Data Analysis Projects
 
