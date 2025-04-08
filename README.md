@@ -61,7 +61,7 @@ EDA is a crucial step in the **data science lifecycle** before building models.
 📁 eda-projects/
 ├── 1-black-friday-sales-analysis.ipynb
 ├── 2-titanic-survival-analysis.ipynb
-├── 3-zomato-bangalore-eda.ipynb
+├── 3-zomato-eda.ipynb
 ├── 4-ipl-matches-analysis.ipynb
 ├── 5-startup-funding-analysis.ipynb
 └── README.md
